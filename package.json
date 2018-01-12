@@ -5,6 +5,7 @@
   "author": "Jake Tripp",
   "license": "MIT",
   "scripts": {
+    "start": "npm run dev-server",
     "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
