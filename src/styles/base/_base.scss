@@ -1,0 +1,22 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: $dark-blue;
+    font-family: Helvetica, Arial !important;
+    font-size: $m-size;
+}
+
+button {
+    cursor: pointer;
+    font-family: Helvetica, Arial !important;
+}
+
+input {
+    font-family: Helvetica, Arial !important;
+}
+
+button:disabled {
+    cursor: default;
+}
